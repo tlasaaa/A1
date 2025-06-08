@@ -1,0 +1,59 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
+  <diagram name="第 1 页" id="hCrzdoJfy99dI8lDG13m">
+    <mxGraphModel dx="1128" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bZtSFaIM_KMWofABiPHg-1" value="" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="176.5" y="180" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="bZtSFaIM_KMWofABiPHg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=block;startFill=1;endArrow=none;" edge="1" parent="1" source="bZtSFaIM_KMWofABiPHg-2" target="bZtSFaIM_KMWofABiPHg-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bZtSFaIM_KMWofABiPHg-2" value="" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="601" y="190" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="bZtSFaIM_KMWofABiPHg-3" value="" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="861" y="350" width="69" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bZtSFaIM_KMWofABiPHg-6" value="H3C ER8300G2-X" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="211" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bZtSFaIM_KMWofABiPHg-7" value="NBR Ruijie" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="570" y="130" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bZtSFaIM_KMWofABiPHg-8" value="Tp-Link TL-ER5110" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="861" y="305" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bZtSFaIM_KMWofABiPHg-11" value="&lt;ul&gt;&lt;li&gt;WAN 192.168.157&lt;/li&gt;&lt;li&gt;LAN 192.168.17.1&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="830" y="390" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bZtSFaIM_KMWofABiPHg-12" value="&lt;ul&gt;&lt;li&gt;WAN&amp;nbsp; 移动互联网&lt;/li&gt;&lt;li&gt;LAN 192.168.8.0&lt;/li&gt;&lt;li&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;255.225.255.0&lt;/li&gt;&lt;li&gt;网关 192.168.8.1&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="590" y="255" width="170" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="bZtSFaIM_KMWofABiPHg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.118;entryY=0.579;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="bZtSFaIM_KMWofABiPHg-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="309.17" as="sourcePoint" />
+            <mxPoint x="580" y="310.82" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bZtSFaIM_KMWofABiPHg-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="340" as="sourcePoint" />
+            <mxPoint x="840" y="432.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="340" />
+              <mxPoint x="430" y="432" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bZtSFaIM_KMWofABiPHg-13" value="&lt;ul&gt;&lt;li&gt;WAN1&amp;nbsp; 电信互联网&lt;/li&gt;&lt;li&gt;WAN2&amp;nbsp; 电信互联网&lt;/li&gt;&lt;li&gt;WAN3&amp;nbsp; 192.168.1.254&lt;/li&gt;&lt;li&gt;WAN4&lt;/li&gt;&lt;li&gt;WAN5&lt;/li&gt;&lt;li&gt;LAN 192.168.1.0&lt;/li&gt;&lt;li&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;255.225.0.0&lt;/li&gt;&lt;li&gt;网关 192.168.1.1&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="135.5" y="260" width="184.5" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
